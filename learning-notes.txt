@@ -3,3 +3,4 @@ Git add = prepares changes
 Git commit = creates a checkpoint
 Git push = sends changes to GitHub
 Git pull = brings changes from GitHub
+Next step: I will pull these GitHub changes to my local repository.
